@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rigel 👋</h1>
+<h1 align="center">Hi, I'm Rudrakshi! </h1>
 <p align="center">
   Computer Science student • Builder • Curious about how things work
 </p>
