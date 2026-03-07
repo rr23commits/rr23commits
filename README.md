@@ -75,7 +75,3 @@ More projects will keep appearing here as I build them.
 If you're working on something interesting or want to collaborate, feel free to reach out.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rr23commits&color=blue" />
-</p>
