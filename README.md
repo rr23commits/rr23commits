@@ -1,77 +1,85 @@
-<h1 align="center">Hi, I'm Rudrakshi! </h1>
-<p align="center">
-  Computer Science student • AI/Computer Vision • Robotics • Builder
-</p>
+# Hey, I'm Rudrakshi
+
+I'm a 3rd-year BTech Computer Science student interested in computer vision, robotics, 3D reconstruction, and software development.
+
+I like building things, figuring out how they work, and learning through projects rather than just coursework.
 
 ---
 
-### About me
+## About Me
 
-I'm currently pursuing a BTech in Computer Science and enjoy working on projects that combine software with real-world applications.
+Some of the areas I'm currently exploring:
 
-Some things I'm exploring right now:
-- Building interactive applications with Java
-- Computer vision and depth estimation
-- Robotics and IoT systems
-- Learning more about full-stack development
+* Computer vision and 3D reconstruction
+* Robotics and autonomous systems
+* Machine learning
+* Full-stack development
+* AI-assisted software development
+* IoT and hardware-based projects
 
-I like experimenting with ideas and turning them into small working projects.
-
----
-
-### Tech I work with
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+I'm particularly interested in projects that connect software to the real world, especially through cameras, sensors, robotics, and 3D data.
 
 ---
 
-### Current Projects
+## Tech I Work With
 
-A few things I've been working on recently:
+**Languages**
 
-- A personality-based dating app built with Java Swing  
-- Depth estimation experiments using computer vision models  
-- Robotics and IoT club projects  
-- UI and frontend experiments for small web apps
+`Python` · `Java` · `JavaScript` · `TypeScript` · `C/C++` · `SQL`
 
-More projects will keep appearing here as I build them.
+**Computer Vision / ML**
 
----
+`PyTorch` · `OpenCV` · `YOLO` · `SAM` · `COLMAP` · `Open3D`
 
-### GitHub Stats
+**Web / Backend**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rr23commits&show_icons=true&theme=tokyonight" />
-</p>
+`React` · `Next.js` · `Node.js` · `FastAPI` · `PostgreSQL`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rr23commits&theme=tokyonight" />
-</p>
+**Robotics / 3D**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr23commits&layout=compact&theme=tokyonight" />
-</p>
+`PX4` · `LiDAR` · `SLAM` · `3D Reconstruction` · `Gaussian Splatting`
+
+**Tools**
+
+`Git` · `GitHub` · `Docker` · `FFmpeg`
 
 ---
 
-### What I'm focusing on this year
+## Current Projects
 
-- Strengthening data structures and algorithms
-- Building more real projects instead of just coursework
-- Exploring AI and computer vision
-- Getting better at writing clean, maintainable code
+### Gmail Intelligence
+
+Building a system that connects to Gmail, syncs emails, and classifies them based on their content and context.
+
+Currently working on the backend, classification system, database design, and frontend.
+
+### 3D Reconstruction
+
+Exploring how to reconstruct 3D environments from video using depth estimation, camera pose estimation, COLMAP, and 3D processing.
+
+The goal is to understand and build the pipeline myself rather than treating the reconstruction as a black box.
+
+### Robotics Projects
+
+Working on robotics and IoT projects involving sensors, computer vision, autonomous systems, drones, and spatial interfaces.
+
+I've worked with things like PX4, LiDAR, Meta Quest, and Gaussian splatting as part of these projects.
 
 ---
 
-### Connect
+## What I'm Focusing On
 
-If you're working on something interesting or want to collaborate, feel free to reach out.
+* Getting better at data structures and algorithms
+* Building larger projects from scratch
+* Learning computer vision and 3D systems properly
+* Improving my backend and system design skills
+* Writing cleaner and more maintainable code
+* Understanding the code I build with AI-assisted development tools
+
+---
+
+## Connect
+
+If you're working on something interesting in computer science, robotics, computer vision, or software development, feel free to reach out.
 
 ---
