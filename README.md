@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rudrakshi! </h1>
 <p align="center">
-  Computer Science student • Builder • Curious about how things work
+  Computer Science student • AI/Computer Vision • Robotics • Builder
 </p>
 
 ---
