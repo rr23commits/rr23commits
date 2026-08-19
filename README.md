@@ -15,7 +15,6 @@ Some of the areas I'm currently exploring:
 * Machine learning
 * Full-stack development
 * AI-assisted software development
-* IoT and hardware-based projects
 
 I'm particularly interested in projects that connect software to the real world, especially through cameras, sensors, robotics, and 3D data.
 
