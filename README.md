@@ -24,7 +24,7 @@ I'm particularly interested in projects that connect software to the real world,
 
 **Languages**
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `C/C++` · `SQL`
+`Python` · `Java` · `JavaScript` · `TypeScript` · `C++` · `SQL`
 
 **Computer Vision / ML**
 
